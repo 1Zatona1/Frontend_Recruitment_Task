@@ -183,7 +183,7 @@ const Header = ({ categories, selectedCategory, setSelectedCategory, searchTerm,
             {/* Logo Section */}
             <div className="flex-shrink-0">
               <a href="#" className="text-xl sm:text-2xl font-extrabold text-indigo-600 hover:text-indigo-500 transition-colors">
-                Shopify
+                ZStore 
               </a>
             </div>
 
